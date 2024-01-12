@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/francismkalama/francismkalama/_apis/build/status%2Ffrancismkalama.azure-walkthrough-?branchName=main)](https://dev.azure.com/francismkalama/francismkalama/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
